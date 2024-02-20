@@ -1,4 +1,5 @@
 Basic Task-3: **Combat Online Plagiarism with AI**
+
 **Objective of this project:**
 The objective of the "Combatting Online Plagiarism with AI" project is to develop an AI-powered tool that can automatically detect instances of plagiarism in online content. The primary focus is on protecting the original work of authors and organizations by identifying similarities between text documents and flagging potential cases of plagiarism. The key goals are:
 **Efficiency**: Provide a fast and automated solution for plagiarism detection to save time compared to manual methods.
@@ -6,6 +7,7 @@ The objective of the "Combatting Online Plagiarism with AI" project is to develo
 **User Empowerment**: Empower authors, educators, news organizations, and content creators with a tool that helps them safeguard their original content.
 
 In this we need to use text files to find and check the plagiarism after developing the comabat online plagiarism project with AI.As per the project I develop:
+
 **Steps of Developing the Project**:
 1.**Data Preparation**:
 Collect a set of text documents (in this case, .txt files) that need to be checked for plagiarism. These documents represent the content available on the internet.
@@ -17,6 +19,7 @@ Calculate the cosine similarity between pairs of text vectors. The similarity fu
 Implement the check_plagiarism function to iterate through all combinations of text documents, calculate similarity scores, and identify potential instances of plagiarism.
 5.**Result Display**:
 Print the pairs of documents and their corresponding similarity scores to the console.
+
 **
 Real-Life Applications**:
 1.**Academic Integrity**:
