@@ -19,7 +19,7 @@ Collect a set of text documents (in this case, .txt files) that need to be check
 2.**Text Vectorization**:
 Use the TF-IDF vectorization technique to convert the text documents into numerical vectors. This step is performed by the vectorize function in the code.
 
-3**.Similarity Calculation**:
+3.**Similarity Calculation**:
 Calculate the cosine similarity between pairs of text vectors. The similarity function computes the similarity between two documents.
 
 4.**Plagiarism Detection**:
@@ -28,8 +28,8 @@ Implement the check_plagiarism function to iterate through all combinations of t
 5.**Result Display**:
 Print the pairs of documents and their corresponding similarity scores to the console.
 
-**
-Real-Life Applications**:
+
+ **Real-Life Applications**:
 
 1.**Academic Integrity**:
 Educational institutions can use this tool to identify and address plagiarism in student assignments, maintaining academic integrity.
